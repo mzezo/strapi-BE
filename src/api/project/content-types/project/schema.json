@@ -92,6 +92,15 @@
           "localized": false
         }
       }
+    },
+    "featured": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "boolean",
+      "default": false
     }
   }
 }
